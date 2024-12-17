@@ -23,7 +23,7 @@ main {
 header, footer {
     background-color: #f4f4f4;
     padding: 10px;
-    text-align: center;
+    text-align: left;
 }
 
 /* Article styling: Takes 2/3 of the width */
